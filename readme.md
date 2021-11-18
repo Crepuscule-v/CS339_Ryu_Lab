@@ -2,7 +2,9 @@
 
 This lab is the Computer Network course lab of SJTU.
 
-It mainly consists of three main problems.
+The  main goal is to use **Ryu** to implement a custom **SDN Controller**, and then use **mininet** to simulate.
+
+It mainly consists of three main problems :
 
 - Path Switching
 - Load Balancing 
